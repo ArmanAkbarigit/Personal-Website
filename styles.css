@@ -1,0 +1,21 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    background-color: #003366;
+    color: white;
+}
+
+header .display-4 {
+    font-weight: bold;
+}
+
+section {
+    padding: 60px 0;
+}
+
+footer {
+    background-color: #002244;
+}
+
